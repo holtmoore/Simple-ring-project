@@ -3,7 +3,7 @@
 
 body {
     background-image: url("https://images2.alphacoders.com/129/1291883.png");
-    background-size: cover;
+    background-size:auto;
     background-position: center;
   }
   
@@ -13,8 +13,10 @@ body {
   }
   
   h1 {
-    font-size: 24px;
+    font-size: 50px;
     margin-bottom: 20px;
+    color: black;
+    
   }
   
   button {
@@ -51,11 +53,7 @@ body {
     font-size: 25px;
     margin-top: 10px;
     font-weight: bold;
-    color: aqua;
+    color:chartreuse;
   }
   
-  .boss-winner {
-    font-size: 18px;
-    font-weight: bold;
-  }
-  
+ 
