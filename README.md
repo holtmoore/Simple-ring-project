@@ -14,7 +14,7 @@ In this project is a Boss Fight game for one player where you simulate random fi
 - jQuery
 
 <!-- Installation -->
-##Installtion
+## Installtion
 
 Clone Repository
 
